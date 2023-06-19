@@ -10,7 +10,7 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | 190030291 |  Jackes Tiago Ferreira da Fonseca |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 202017263 |  Vinícius de Oliveira Santos |
 
 ## Sobre 
 O trabalho tem como objetivo resolver questões de dividir e conquistar no [leetcode](https://leetcode.com/tag/divide-and-conquer/)
@@ -38,10 +38,20 @@ Mescle todas as listas vinculadas em uma lista vinculada classificada e retorne-
 
 ![Screenshot from 2023-06-18 19-14-08](https://github.com/projeto-de-algoritmos/DC_Exercises_29/assets/53023400/158822d5-1188-49cd-8f99-744aff93e280)</br>
 
-## Ecercício 3
+## Ecercício 3 - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+**Descrição:** Dados dois arrays de tamanhos específicos, retorne a mediana entre os dois arrays ordenados, com a complexidade O(log(m+n)).
+
+**Dificuldade:** Difícil
+
+![Captura de tela 2023-06-17 104640](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla03/assets/88348878/25c4a356-039d-4203-81ad-c7eeea193406)
 
 
-## Ecercício 4
+## Ecercício 4 - [148. Sort List](https://leetcode.com/problems/sort-list/)
+**Descrição:** Dado a cabeça de uma lista conectada, retorne a lista conectada ordenada de forma crescente.
+
+**Dificuldade:** Médio
+
+![Captura de tela 2023-06-17 104724](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla03/assets/88348878/161c3d3b-c714-4f9b-9f0e-db62af17a2da)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
