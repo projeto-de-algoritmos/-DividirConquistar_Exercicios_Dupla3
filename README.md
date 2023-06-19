@@ -54,16 +54,4 @@ Mescle todas as listas vinculadas em uma lista vinculada classificada e retorne-
 ![Captura de tela 2023-06-17 104724](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla03/assets/88348878/161c3d3b-c714-4f9b-9f0e-db62af17a2da)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: Python<br>
